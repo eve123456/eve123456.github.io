@@ -1,7 +1,6 @@
 ---
 permalink: /
-<!-- title: "let me see" -->
-title: ""
+title: "Introduction"
 title: ""
 
 excerpt: "About me"
