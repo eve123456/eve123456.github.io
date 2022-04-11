@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a second-year PhD student in the department of Industrial and Enterprise Systems Engineering (ISE) of University of Illinois at Urbana-Champaign, fortunately advised by Prof. Bo Li.
+Hi, I'm Evelyn, a second-year PhD student in the department of Industrial and Enterprise Systems Engineering (ISE) of University of Illinois at Urbana-Champaign (UIUC). 
 
-My current research interest focuses on Applied Machine Learning.
+I'm currently interested in Machine Learning, and more specifically on theoretically uncovering the mysterious underlying connection of model properties (i.e, model transferability, robustness, regularization, etc); I'm also open to the neighbour areas, including but not only the robustness of federated reinforcement learning, efficient algorithms for seeking equlibriums of federared learning game, etc.
 
